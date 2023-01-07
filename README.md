@@ -189,3 +189,10 @@ In check_train.ipynb, ...
 - [ ] Ablation study of F0, MCEP and power envelope
 - [ ] Train on more emotion pairs
 - [ ] Objective and subjective evaluation
+
+
+
+1_target
+
+The goal of this project is to transform the voice that can change the speaker's emotions.
+So, the purpose of our research is to change the feelings, preserve the linguistic content, the identity of the speaker
