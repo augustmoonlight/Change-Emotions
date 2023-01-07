@@ -189,3 +189,18 @@ In check_train.ipynb, ...
 - [ ] Ablation study of F0, MCEP and power envelope
 - [ ] Train on more emotion pairs
 - [ ] Objective and subjective evaluation
+
+
+
+target
+
+the purpose in this project is to create a voice conversion system that can change the speaker's emotions.
+
+The purpose of this model is to produce speech with desirable emotions while preserving the original speech content and the identity of the speaker.
+
+Description of innovation
+
+We proposed a nonparallel emotional speech conversion approach based on style transfer autoencoders. it is
+
+easy to apply in real-world situations. Future work includes phonetic duration conversion and designing a general model for unseen speakers.
+
