@@ -202,5 +202,17 @@ Description of innovation
 
 We proposed a nonparallel emotional speech conversion approach based on style transfer autoencoders. it is
 
-easy to apply in real-world situations. Future work includes phonetic duration conversion and designing a general model for unseen speakers.
+easy to apply in real-world situations. Future work includes phonetic duration conversion and designing a general model for unseen spchange
 
+change source code
+
+import os
+import tensorflow as tf
+tf.reset_default_graph()
+from ops_c import discriminator, generator_gatedcnn
+from utils import l1_loss, l2_loss, cross_entropy_loss
+from datetime import datetime
+
+Refer to this link
+
+https://github.com/bottlecapper/EmoMUNIT
