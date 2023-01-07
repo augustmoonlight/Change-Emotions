@@ -200,7 +200,7 @@ The purpose of this model is to produce speech with desirable emotions while pre
 
 Description of innovation
 
-We proposed a nonparallel emotional speech conversion approach based on style transfer autoencoders. it is
+We proposed a nonparallel emotional speech conversion approach based on style transfer autoencoders. it is
 
 easy to apply in real-world situations. Future work includes phonetic duration conversion and designing a general model for unseen spchange
 
